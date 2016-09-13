@@ -1,5 +1,5 @@
 # hardy-first
-This is my 1st repository, but 3rd branch update - in Branch Sep14branch I chnaged:
+This is my 1st repository, but 3rd branch update - in Branch Sep14branch I changed:
 - addition of pciture of great grandpappy
 
 Mark Hardison here. Trying to learn about Github so I can understand better Brackets dev ops process.
